@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+THIS A STATIC WEBSITE CREATED FOR REACT PRACTICE OF RENDERING COMPONENTS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
